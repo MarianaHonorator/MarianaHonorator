@@ -4,7 +4,7 @@
 
 ## Olá 🤘
 
-Meu nome é Mariana Honorato Rodrigues, estou cursando Gestão da Tecnologia da Informação, e procuro conhecimentos sobre programação back-end. Com o Intuito de adquirir novas tecnologias e ferramentas para me aprofundar mais na área de programação back-end.
+Meu nome é Mariana Honorato Rodrigues, estou cursando Gestão da Tecnologia da Informação, e procuro conhecimentos sobre programação back-end. Com o Intuito de adquirir novas tecnologias e ferramentas para me aprofundar mais na área de programação.
 
 
 ## 💻 Tecnologias:
