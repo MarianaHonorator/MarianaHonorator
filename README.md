@@ -19,4 +19,6 @@ Meu nome é Mariana Honorato Rodrigues, estou cursando Análise e Desenvolviment
 [![visualcode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-thebadge&logo=visual%20studio%20code&logoColor=white&link=https://code.visualstudio.com/)](https://code.visualstudio.com/)
 [![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white&link=https://www.jetbrains.com/pt-br/pycharm/)](https://www.jetbrains.com/pt-br/pycharm/)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MarianaHonorator&show_icons=true&locale=en&layout=compact" alt="MarianaHonorator" /></p>
+| Top Languages |
+| --- |
+| <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marrcosrodrigues&show_icons=true&title_color=9805e8&icon_color=f9805e8&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact" alt="marrcosrodrigues" /></p> |
