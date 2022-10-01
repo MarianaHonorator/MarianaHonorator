@@ -21,4 +21,4 @@ Meu nome é Mariana Honorato Rodrigues, estou cursando Análise e Desenvolviment
 
 | Top Languages |
 | --- |
-| <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaHonorator&show_icons=true&title_color=9805e8&icon_color=f9805e8&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact" alt=MarianaHonorator" /></p> |
+|| <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianahonorator&show_icons=true&title_color=9805e8&icon_color=f9805e8&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact" alt="marianahonorator" /></p> |
