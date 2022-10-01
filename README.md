@@ -15,10 +15,12 @@ Meu nome é Mariana Honorato Rodrigues, estou cursando Análise e Desenvolviment
 [![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white&link=https://git-scm.com/)](https://git-scm.com/)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white&link=https://www.microsoft.com/pt-br/windows)](https://www.microsoft.com/pt-br/windows)
 
+
 ## 👩‍💻 IDE:
 [![visualcode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-thebadge&logo=visual%20studio%20code&logoColor=white&link=https://code.visualstudio.com/)](https://code.visualstudio.com/)
 [![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white&link=https://www.jetbrains.com/pt-br/pycharm/)](https://www.jetbrains.com/pt-br/pycharm/)
 
-| Top Languages |
-| --- |
-|| <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianahonorator&show_icons=true&title_color=9805e8&icon_color=f9805e8&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact" alt="marianahonorator" /></p> |
+<div align="center">
+  <a href="https://github.com/MarianaHonorator">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarianaHonorator&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaHonorator&layout=compact&langs_count=7&theme=tokyonight"/>
