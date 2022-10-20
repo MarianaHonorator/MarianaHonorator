@@ -4,7 +4,7 @@
 
 ## Olá 🤘
 
-Meu nome é Mariana Honorato Rodrigues, estou cursando Análise e Desenvolvimento de Sistemas , e procuro conhecimentos sobre programação back-end e front-end. Com o Intuito de adquirir novas tecnologias e ferramentas para me aprofundar mais na área de programação.
+Meu nome é Mariana Honorato Rodrigues, estou cursando Análise e Desenvolvimento de Sistemas , e procuro conhecimento sobre programação back-end e front-end. Com o Intuito de adquirir novas tecnologias e ferramentas para me aprofundar mais na área de programação.
 
 
 ## 💻 Tecnologias:
