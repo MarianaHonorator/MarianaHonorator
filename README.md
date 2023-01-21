@@ -12,6 +12,7 @@ Meu nome é Mariana Honorato Rodrigues, estou cursando Análise e Desenvolviment
 
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&link=https://www.bloodshed.net/)](https://www.bloodshed.net/)
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue&link=https://www.python.org/)](https://www.python.org/)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white//www.java.org/)](https://www.java.org/)
 [![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white&link=https://git-scm.com/)](https://git-scm.com/)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white&link=https://www.microsoft.com/pt-br/windows)](https://www.microsoft.com/pt-br/windows)
 
