@@ -18,6 +18,7 @@ Meu nome é Mariana Honorato Rodrigues, estou cursando Análise e Desenvolviment
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/tags/)
 [![CSS5](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/default.asp)
 [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://dev.mysql.com/doc/)
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/pt-br/dotnet/csharp/)
 
 
 
@@ -25,6 +26,7 @@ Meu nome é Mariana Honorato Rodrigues, estou cursando Análise e Desenvolviment
 [![visualcode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-thebadge&logo=visual%20studio%20code&logoColor=white&link=https://code.visualstudio.com/)](https://code.visualstudio.com/)
 [![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white&link=https://www.jetbrains.com/pt-br/pycharm/)](https://www.jetbrains.com/pt-br/pycharm/)
 [![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white//www.jetbrains.com/pt-br/eclipse/)](https://www.jetbrains.com/pt-br/eclipse/)
+[![VisualStudio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)]
 
 
 
